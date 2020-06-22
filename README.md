@@ -3,7 +3,7 @@ social engineering toolkit
 
 to run just pen kils_social_engineering_tookit.exe
  
- this is a social engineering toolkit designed for helping hackers gain information about the target computer
+ this is a social engineering toolkit designed for helping attackers gain information about the target computer
  
  its features are :
  1. can ping a site 
